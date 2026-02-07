@@ -26,7 +26,7 @@ This repository documents the engineering and deployment of a secure maritime da
 * Breaking the Air-Gap: Recognizes that constant satellite connectivity requires persistent oversight.
 * Continuous Monitoring: Fulfills the July 2025 mandate for owners to establish persistent system visibility.
 * Incident Response: Ready for GPS spoofing and ransomware detection via telemetry analysis.
-
+![Splunk C2 Alert](images/your_new_image_name.png)
 📊 Portfolio Evidence Summary
 Domain	Control	Evidence
 Identity	MFA Passkey	IAM Credentials
