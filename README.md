@@ -42,7 +42,7 @@ This repository documents the engineering and deployment of a secure maritime da
   
 🖥️ Single-Pane-of-Glass: Homarr Command Center
 
-  ![Homarr Command Center](images/homarr%20dashboard.png)
+  ![Homarr Command Center](images/Homarr%20Dashboard.png)
   
 Continuous Monitoring: Fulfills the July 16, 2025 mandate for owners and operators to establish continuous oversight.  
 
