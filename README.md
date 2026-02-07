@@ -39,6 +39,16 @@ This repository documents the engineering and deployment of a secure maritime da
 * Operational OT Security: Visualizes "blurring IT/OT systems" through a unified Classic Dashboard.
 
     🚢 Regulatory Alignment: CTIME 2025
+  
+🖥️ Single-Pane-of-Glass: Homarr Command Center
+
+  ![Homarr Command Center](images/homarr%20dashboard.png)
+  
+Continuous Monitoring: Fulfills the July 16, 2025 mandate for owners and operators to establish continuous oversight.  
+
+Unified IT/OT Visibility: Centralizes status monitoring for Nginx Proxy Manager, Pi-hole DNS, and Splunk Enterprise.   
+
+Operational Status: Verified "All Systems Operational" status across the entire maritime framework.
 
   ![OT Network Segmentation](images/ot_vessel_network.png)
   
