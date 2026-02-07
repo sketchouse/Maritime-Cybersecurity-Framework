@@ -49,8 +49,12 @@ This repository documents the engineering and deployment of a secure maritime da
   ![Splunk C2 Alert](images/Maritime%20C2%20Beacon%20Detected%20.png)
   
 📊 Portfolio Evidence Summary
+
 Domain	Control	Evidence
+
 Identity	MFA Passkey	IAM Credentials
+
 Data	MFA Enforcement Policy	S3 Bucket Policy
+
 Visibility	Unified Log Pipeline	Maritime Dashboard
 
