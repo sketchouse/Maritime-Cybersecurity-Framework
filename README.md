@@ -37,7 +37,8 @@ This repository documents the engineering and deployment of a secure maritime da
    ![Maritime Security Dashboard](images/Splunk.png)
   
 * Operational OT Security: Visualizes "blurring IT/OT systems" through a unified Classic Dashboard.
-🚢 Regulatory Alignment: CTIME 2025
+
+    🚢 Regulatory Alignment: CTIME 2025
 
   ![OT Network Segmentation](images/ot_vessel_network.png)
   
