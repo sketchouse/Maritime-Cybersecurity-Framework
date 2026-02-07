@@ -1,7 +1,9 @@
 # Maritime-Cybersecurity-Framework
 
 Maritime Cloud Security & Continuous Monitoring Framework
+
 Candidate: Daqwan H. (CySO Applicant)
+
 Objective: Implementation of hardened cloud infrastructure and real-time threat monitoring for maritime environments in accordance with the USCG 2025 Maritime Cybersecurity Rule.
 
 📑 Project Overview
